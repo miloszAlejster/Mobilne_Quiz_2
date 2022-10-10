@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Falsz</string>
+    <string name="button_next">Nastepny</string>
+    <string name="q_activity">Activity jest jednym z komponentow aplikacji Android</string>
+    <string name="q_version">Android 8 jest najnowsza wersja systemu Android</string>
+    <string name="q_listeners">Aplikacje dla systemu Android są sterowane zdarzeniowo</string>
+    <string name="q_resources">Zasoby aplikacji dla systemu Android definiuje sie w plikach .xml</string>
+    <string name="q_find_resources">Do zasobow w aplikacji dla systemu Android odnosimy sie po nazwach</string>
+    <string name="correct_answer">NICE</string>
+    <string name="incorrert_answer">nah</string>
+    <string name="hint_text">Czy na pewno chcesz zobaczyć odpowiedź</string>
+    <string name="button_hint">Pokaż odpowiedź</string>
+    <string name="shown_answer">Odpowiedź była już wyświetlona</string>
+</resources>
